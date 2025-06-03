@@ -1,4 +1,4 @@
-use std::fmt::{Debug, write};
+use std::fmt::{Debug};
 
 pub struct PodBlock {
     id: Option<usize>,
